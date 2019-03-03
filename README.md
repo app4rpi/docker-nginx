@@ -32,6 +32,6 @@ $  docker run -d --restart always --net=host -v /var/www:/var/www/ -v /app/nginx
 ## Configuration of Web Directory
 The configuration file of nginx is set to "/app/nginx"
 
-The port of service has been fixed at 80
-
 The internal web data directory is set to "/var/www/html"
+
+The port of service has been fixed at 80
