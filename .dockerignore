@@ -10,6 +10,7 @@ build
 Dockerfile
 Makefile
 docker-compose.yml
+.dockerignore
 README.md
 
 # Other
